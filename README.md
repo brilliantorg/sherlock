@@ -4,7 +4,9 @@ The Public Domain Works of Sherlock Holmes
 This repository contains all the public domain works of Arthur Conan Doyle.
 
 The text in the directories novels/ and stories/ is originally sourced from
-Project Gutenberg, which is not affiliated with this repositor in any way. 
+Project Gutenberg, which is not affiliated with this repository in any way. 
+The text has been changed to make it more regular and easy for text tools
+to process uniformly.
 
 The text in the novels/ and stories/ directory is for the use of anyone 
 anywhere in the United States and most other parts of the world at no cost 
