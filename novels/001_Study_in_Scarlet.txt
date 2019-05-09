@@ -1,8 +1,8 @@
-A STUDY IN SCARLET
+A Study in Scarlet
 
 
 PART 1: BEING A REPRINT FROM THE REMINISCENCES OF JOHN H. WATSON MD, LATE OF THE ARMY MEDICAL DEPARTMENT
-Chapter 1: Mr Sherlock Holmes
+Chapter 1--Mr Sherlock Holmes
 In the year 1878 I took my degree of Doctor of Medicine of the University of London, and proceeded to Netley to go through the course prescribed for surgeons in the army. Having completed my studies there, I was duly attached to the Fifth Northumberland Fusiliers as Assistant Surgeon. The regiment was stationed in India at the time, and before I could join it, the second Afghan war had broken out. On landing at Bombay, I learned that my corps had advanced through the passes, and was already deep in the enemy's country. I followed, however, with many other officers who were in the same situation as myself, and succeeded in reaching Candahar in safety, where I found my regiment, and at once entered upon my new duties.
 
 The campaign brought honours and promotion to many, but for me it had nothing but misfortune and disaster. I was removed from my brigade and attached to the Berkshires, with whom I served at the fatal battle of Maiwand. There I was struck on the shoulder by a Jezail bullet, which shattered the bone and grazed the subclavian artery. I should have fallen into the hands of the murderous Ghazis had it not been for the devotion and courage shown by Murray, my orderly, who threw me across a pack-horse, and succeeded in bringing me safely to the British lines.
@@ -142,7 +142,7 @@ My companion smiled an enigmatical smile. 'That's just his little peculiarity,' 
 'Good-bye,' I answered, and strolled on to my hotel, considerably interested in my new acquaintance.
 
 
-Chapter 2: The Science of Deduction
+Chapter 2--The Science of Deduction
 We met next day as he had arranged, and inspected the rooms at No. 221B, Baker Street, of which he had spoken at our meeting. They consisted of a couple of comfortable bedrooms and a single large airy sitting-room, cheerfully furnished, and illuminated by two broad windows. So desirable in every way were the apartments, and so moderate did the terms seem when divided between us, that the bargain was concluded upon the spot, and we at once entered into possession. That very evening I moved my things round from the hotel, and on the following morning Sherlock Holmes followed me with several boxes and portmanteaus. For a day or two we were busily employed in unpacking and laying out our property to the best advantage. That done, we gradually began to settle down and to accommodate ourselves to our new surroundings.
 
 Holmes was certainly not a difficult man to live with. He was quiet in his ways, and his habits were regular. It was rare for him to be up after ten at night, and he had invariably breakfasted and gone out before I rose in the morning. Sometimes he spent his day at the chemical laboratory, sometimes in the dissecting-rooms, and occasionally in long walks, which appeared to take him into the lowest portions of the city. Nothing could exceed his energy when the working fit was upon him; but now and again a reaction would seize him, and for days on end he would lie upon the sofa in the sitting-room, hardly uttering a word or moving a muscle from morning to night. On these occasions I have noticed such a dreamy, vacant expression in his eyes, that I might have suspected him of being addicted to the use of some narcotic, had not the temperance and cleanliness of his whole life forbidden such a notion.
@@ -259,7 +259,7 @@ Here was an opportunity of taking the conceit out of him. He little thought of t
 He clicked his heels together, raised his hand in a salute, and was gone.
 
 
-Chapter 3: The Lauriston Gardens Mystery
+Chapter 3--The Lauriston Gardens Mystery
 I confess that I was considerably startled by this fresh proof of the practical nature of my companion's theories. My respect for his powers of analysis increased wondrously. There still remained some lurking suspicion in my mind, however, that the whole thing was a prearranged episode, intended to dazzle me, though what earthly object he could have in taking me in was past my comprehension. When I looked at him, he had finished reading the note, and his eyes had assumed the vacant, lack-lustre expression which showed mental abstraction.
 
 'How in the world did you deduce that?' I asked. 'Deduce what?' said he, petulantly.
@@ -455,7 +455,7 @@ Lestrade and Gregson glanced at each other with an incredulous smile.
 With which Parthian shot he walked away, leaving the two rivals open-mouthed behind him.
 
 
-Chapter 4: What John Rance Had to Tell
+Chapter 4--What John Rance Had to Tell
 It was one o'clock when we left No. 3, Lauriston Gardens. Sherlock Holmes led me to the nearest telegraph office, whence he dispatched a long telegram. He then hailed a cab, and ordered the driver to take us to the address given us by Lestrade.
 
 'There is nothing like first-hand evidence,' he remarked; 'as a matter of fact, my mind is entirely made up upon the case, but still we may as well learn all that is to be learned.'
@@ -571,7 +571,7 @@ We started off for the cab together, leaving our informant incredulous, but obvi
 Leaning back in the cab, this amateur bloodhound carolled away like a lark while I meditated upon the manysidedness of the human mind.
 
 
-Chapter 5: Our Advertisement Brings a Visitor
+Chapter 5--Our Advertisement Brings a Visitor
 Our morning's exertions had been too much for my weak health, and I was tired out in the afternoon. After Holmes's departure for the concert, I lay down upon the sofa and endeavoured to get a couple of hours' sleep. It was a useless attempt. My mind had been too much excited by all that had occurred, and the strangest fancies and surmises crowded into it. Every time that I closed my eyes I saw before me the distorted, baboon-like countenance of the murdered man. So sinister was the impression which that face had produced upon me that I found it difficult to feel anything but gratitude for him who had removed its owner from the world. If ever human features bespoke vice of the most malignant type, they were certainly those of Enoch J. Drebber, of Cleveland. Still, I recognized that justice must be done, and that the depravity of the victim was no condonement in the eyes of the law.
 
 The more I thought of it the more extraordinary did my companion's hypothesis, that the man had been poisoned, appear. I remembered how he had sniffed his lips, and had no doubt that he had detected something which had given rise to the idea. Then, again, if not poison, what had caused the man's death, since there was neither wound nor marks of strangulation? But, on the other hand, whose blood was that which lay so thickly upon the floor? There were no signs of a struggle, nor had the victim any weapon with which he might have wounded an antagonist. As long as all these questions were unsolved, I felt that sleep would be no easy matter, either for Holmes or myself. His quiet, selfconfident manner convinced me that he had already formed a theory which explained all the facts, though what it was I could not for an instant conjecture.
@@ -681,7 +681,7 @@ It was close upon nine when he set out. I had no idea how long he might be, but 
 I was certainly feeling very weary, so I obeyed his injunction. I left Holmes seated in front of the smouldering fire, and long into the watches of the night I heard the low, melancholy wailings of his violin, and knew that he was still pondering over the strange problem which he had set himself to unravel.
 
 
-Chapter 6: Tobias Gregson Shows What He Can Do
+Chapter 6--Tobias Gregson Shows What He Can Do
 The papers next day were full of the 'Brixton Mystery', as they termed it. Each had a long account of the affair, and some had leaders upon it in addition. There was some information in them which was new to me. I still retain in my scrap-book numerous clippings and extracts bearing upon the case. Here is a condensation of a few of them.
 
 The Daily Telegraph remarked that in the history of crime there had seldom been a tragedy which presented stranger features. The German name of the victim, the absence of all other motive, and the sinister inscription on the wall, all pointed to its perpetration by political refugees and revolutionists. The Socialists had many branches in America, and the deceased had, no doubt, infringed their unwritten laws, and been tracked down by them. After alluding airily to the Vehmgericht, aqua tofana, Carbonari, the Marchioness de Brinvilliers, the Darwinian theory, the principles of Malthus, and the Ratcliff Highway murders, the article concluded by admonishing the Government and advocating a closer watch over foreigners in England.
@@ -851,7 +851,7 @@ It was indeed Lestrade, who had ascended the stairs while we were talking, and w
 'The secretary, Mr Joseph Stangerson,' said Lestrade gravely, 'was murdered at Halliday's Private Hotel about six o'clock this morning.'
 
 
-Chapter 7: Light in the Darkness
+Chapter 7--Light in the Darkness
 The intelligence with which Lestrade greeted us was so momentous and so unexpected that we were all three fairly dumbfounded. Gregson sprang out of his chair and upset the remainder of his whiskey and water. I stared in silence at Sherlock Holmes, whose lips were compressed and his brows drawn down over his eyes.
 
 Stangerson too!' he muttered. 'The plot thickens.'
@@ -968,7 +968,7 @@ The whole thing occurred in a moment - so quickly that I had no time to realize 
 
 
 PART 2: THE COUNTRY OF THE SAINTS
-Chapter 1: On the Great Alkali Plain
+Chapter 1--On the Great Alkali Plain
 In the central portion of the great North American Continent there lies an arid and repulsive desert, which for many a long year served as a barrier against the advance of civilization. From the Sierra Nevada to Nebraska, and from the Yellow-stone River in the north to the Colorado upon the south, is a region of desolation and silence. Nor is Nature always in one mood throughout this grim district. It comprises snow-capped and lofty mountains, and dark and gloomy valleys. There are swift-flowing rivers which dash through jagged cañons; and there are enormous plains, which in winter are white with snow, and in summer are grey with the saline alkali dust. They all preserve, however, the common characteristics of barrenness, inhospitality, and misery.
 
 There are no inhabitants of this land of despair. A band of Pawnees or of Blackfeet may occasionally traverse it in order to reach other hunting-grounds, but the hardiest of the braves are glad to lose sight of those awesome plains, and to find themselves once more upon their prairies. The coyote skulks among the scrub, the buzzard flaps heavily through the air, and the clumsy grizzly bear lumbers through the dark ravines, and picks up such sustenance as it can amongst the rocks. These are the sole dwellers in the wilderness.
@@ -1104,7 +1104,7 @@ They had reached the base of the hill by this time, and were surrounded by crowd
 'You shall remain here,' he said. 'In a few days you will have recovered from your fatigues. In the meantime, remember that now and for ever you are of our religion. Brigham Young has said it, and he has spoken with the voice of Joseph Smith, which is the voice of God.'
 
 
-Chapter 2: The Flower of Utah
+Chapter 2--The Flower of Utah
 This is not the place to commemorate the trials and privations endured by the immigrant Mormons before they came to their final haven. From the shores of the Mississippi to the western slopes of the Rocky Mountains they had struggled on with a constancy almost unparalleled in history. The savage man, and the savage beast, hunger, thirst, fatigue, and disease - every impediment which Nature could place in the way - had all been overcome with Anglo-Saxon tenacity. Yet the long journey and the accumulated terrors had shaken the hearts of the stoutest among them. There was not one who did not sink upon his knees in heartfelt prayer when they saw the broad valley of Utah bathed in the sunlight beneath them, and learned from the lips of their leader that this was the promised land, and that these virgin acres were to be theirs for evermore.
 
 Young speedily proved himself to be a skilful administrator as well as a resolute chief. Maps were drawn and charts prepared, in which the future city was sketched out. All around farms were apportioned and allotted in proportion to the standing of each individual. The tradesman was put to his trade and the artisan to his calling. In the town streets and squares sprang up as if by magic. In the country there was draining and hedging, planting and clearing, until the next summer saw the whole country golden with the wheat crop. Everything prospered in the strange settlement. Above all, the great temple which they had erected in the centre of the city grew ever taller and larger. From the first blush of dawn until the closing of the twilight, the clatter of the hammer and the rasp of the saw were never absent from the monument which the immigrants erected to Him who had led them safe through many dangers.
@@ -1168,7 +1168,7 @@ Thank God!' he said, hoarsely, stooping and kissing her. 'It is settled, then. T
 He tore himself from her as he spoke, and, flinging himself upon his horse, galloped furiously away, never even looking round, as though afraid that his resolution might fail him if he took one glance at what he was leaving. She stood at the gate, gazing after him until he vanished from her sight. Then she walked back into the house, the happiest girl in all Utah.
 
 
-Chapter 3: John Ferrier Talks with the Prophet
+Chapter 3--John Ferrier Talks with the Prophet
 Three weeks had passed since Jefferson Hope and his comrades had departed from Salt Lake City. John Ferrier's heart was sore within him when he thought of the young man's return, and of the impending loss of his adopted child. Yet her bright and happy face reconciled him to the arrangement more than any argument could have done. He had always determined, deep down in his resolute heart, that nothing would ever induce him to allow his daughter to wed a Mormon. Such a marriage he regarded as no marriage at all, but as a shame and a disgrace. Whatever he might think of the Mormon doctrines, upon that one point he was inflexible. He had to seal his mouth on the subject, however, for to express an unorthodox opinion was a dangerous matter in those days in the Land of the Saints.
 
 Yes, a dangerous matter - so dangerous that even the most saintly dared only whisper their religious opinions with bated breath, lest something which fell from their lips might be misconstrued, and bring down a swift retribution upon them. The victims of persecution had now turned persecutors on their own account and persecutors of the most terrible description. Not the Inquisition of Seville, nor the German Vehmgericht, nor the Secret Societies of Italy, were ever able to put a more formidable machinery in motion than that which cast a cloud over the State of Utah.
@@ -1246,7 +1246,7 @@ Lucy laughed through her tears at her father's description.
 John Ferrier uttered these consoling remarks in a very confident tone, but she could not help observing that he paid unusual care to the fastening of the doors that night, and that he carefully cleaned and loaded the rusty old shot-gun which hung upon the wall of his bedroom.
 
 
-Chapter 4: A Flight for Life
+Chapter 4--A Flight for Life
 On the morning which followed his interview with the Mormon Prophet, John Ferrier went in to Salt Lake City, and having found his acquaintance, who was bound for the Nevada Mountains, he entrusted him with his message to Jefferson Hope. In it he told the young man of the imminent danger which threatened them, and how necessary it was that he should return. Having done thus he felt easier in his mind, and returned home with a lighter heart.
 
 As he approached his farm, he was surprised to see a horse hitched to each of the posts of the gate. Still more surprised was he on entering to find two young men in possession of his sitting-room. One, with a long pale face, was leaning back in the rocking-chair, with his feet cocked up upon the stove. The other, a bull-necked youth with coarse, bloated features, was standing in front of the window with his hands in his pockets whistling a popular hymn. Both of them nodded to Ferrier as he entered, and the one in the rocking-chair commenced the conversation.
@@ -1374,7 +1374,7 @@ They could see the lonely watcher fingering his gun, and peering down at them as
 'Pass, and the Lord go with you,' said the voice from above. Beyond his post the path broadened out, and the horses were able to break into a trot. Looking back, they could see the solitary watcher leaning upon his gun, and knew that they had passed the outlying post of the chosen people, and that freedom lay before them.
 
 
-Chapter 5: The Avenging Angels
+Chapter 5--The Avenging Angels
 All night their course lay through intricate defiles and over irregular and rock-strewn paths. More than once they lost their way, but Hope's intimate knowledge of the mountains enabled them to regain the track once more. When morning broke, a scene of marvellous though savage beauty lay before them. In every direction the great snowcapped peaks hemmed them in, peeping over each other's shoulders to the far horizon. So steep were the rocky banks on either side of them that the larch and the pine seemed to be suspended over their heads, and to need only a gust of wind to come hurtling down upon them. Nor was the fear entirely an illusion, for the barren valley was thickly strewn with trees and boulders which had fallen in a similar manner. Even as they passed, a great rock came thundering down with a hoarse rattle which woke the echoes in the silent gorges, and startled the weary horses into a gallop.
 
 As the sun rose slowly above the eastern horizon, the caps of the great mountains lit up one after the other, like lamps at a festival, until they were all ruddy and glowing. The magnificent spectacle cheered the hearts of the three fugitives and gave them fresh energy. At a wild torrent which swept out of a ravine they called a halt and watered their horses, while they partook of a hasty breakfast. Lucy and her father would fain have rested longer, but Jefferson Hope was inexorable. 'They will be upon our track by this time,' he said. 'Everything depends upon our speed. Once safe in Carson, we may rest for the remainder of our lives.'
@@ -1440,7 +1440,7 @@ Many a man, however vindictive, would have abandoned all thought of revenge in t
 Again the avenger had been foiled, and again his concentrated hatred urged him to continue the pursuit. Funds were wanting, however, and for some time he had to return to work, saving every dollar for his approaching journey. At last, having collected enough to keep life in him, he departed for Europe, and tracked his enemies from city to city, working his way in any menial capacity, but never overtaking the fugitives. When he reached St Petersburg, they had departed for Paris; and when he followed them there, he learned that they had just set off for Copenhagen. At the Danish capital he was again a few days late, for they had journeyed on to London, where he at last succeeded in running them to earth. As to what occurred there, we cannot do better than quote the old hunter's own account, as duly recorded in Dr Watson's Journal, to which we are already under such obligations.
 
 
-Chapter 6: A Continuation of the Reminiscences of John Watson MD
+Chapter 6--A Continuation of the Reminiscences of John Watson MD
 Our prisoner's furious resistance did not apparently indicate any ferocity in his disposition towards ourselves, for on finding himself powerless, he smiled in an affable manner, and expressed his hopes that he had not hurt any of us in the scuffle. 'I guess you're going to take me to the police-station,' he remarked to Sherlock Holmes. 'My cab's at the door. If you'll loose my legs I'll walk down to it. I'm not so light to lift as I used to be.'
 
 Gregson and Lestrade exchanged glances, as if they thought this proposition rather a bold one; but Holmes at once took the prisoner at his word, and loosed the towel which he had bound round his ankles. He rose and stretched his legs, as though to assure himself that they were free once more. I remember that I thought to myself, as I eyed him, that I had seldom seen a more powerfully-built man; and his dark, sun-burned face bore an expression of determination and energy which was as formidable as his personal strength.
@@ -1554,7 +1554,7 @@ The prisoner winked at my friend jocosely. 'I can tell my own secrets,' he said,
 'Now, gentlemen,' the inspector remarked, gravely, 'the forms of the law must be complied with. On Thursday the prisoner will be brought before the magistrates, and your attendance will be required. Until then I will be responsible for him.' He rang the bell as he spoke, and Jefferson Hope was led off by a couple of warders, while my friend and I made our way out of the station and took a cab back to Baker Street.
 
 
-Chapter 7: The Conclusion
+Chapter 7--The Conclusion
 We had all been warned to appear before the magistrates upon the Thursday; but when the Thursday came there was no occasion for our testimony. A higher Judge had taken the matter in hand, and Jefferson Hope had been summoned before a tribunal where strict justice would be meted out to him. On the very night after his capture the aneurism burst, and he was found in the morning stretched upon the floor of the cell, with a placid smile upon his face, as though he had been able in his dying moments to look back upon a useful life, and on work well done.
 
 'Gregson and Lestrade will be wild about his death,' Holmes remarked, as we chatted it over next evening. 'Where will their grand advertisement be now?'
