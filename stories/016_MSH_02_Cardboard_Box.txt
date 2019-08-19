@@ -633,7 +633,7 @@ of foolscap.
 "My dear Mr. Holmes:
 
 In accordance with the scheme which we had formed in order to test our
-theories" ["the 'we' is rather fine, Watson, is it not?"] "I went down
+theories" ("the 'we' is rather fine, Watson, is it not?") "I went down
 to the Albert Dock yesterday at 6 p.m., and boarded the S.S. May Day,
 belonging to the Liverpool, Dublin, and London Steam Packet Company.
 On inquiry, I found that there was a steward on board of the name of
