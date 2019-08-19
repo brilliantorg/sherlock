@@ -14,6 +14,7 @@ for file in sorted(os.listdir('stories')):
   if file.endswith('.txt'):
     with open('stories/' + file) as f:
       title = f.readline().strip()
+      print(title)
       out.write('\n' + '#'*80 + '\n')
       out.write(title)
       out.write('\n' + '#'*80 + '\n')
