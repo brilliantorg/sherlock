@@ -403,7 +403,7 @@ remarkable besides this note in your examination of the house?"
 
 The detective looked at my friend in a singular way.
 
-"There were," said he, "one or two _very_ remarkable things. Perhaps
+"There were," said he, "one or two very remarkable things. Perhaps
 when I have finished at the police-station you would care to come out
 and give me your opinion of them."
 
@@ -515,7 +515,7 @@ excellent inspector come back for us. Meanwhile we can thank our lucky
 fate which has rescued us for a few short hours from the insufferable
 fatigues of idleness."
 
-        *           *           *
+
 
 An answer had arrived to Holmes's telegram before our Surrey officer
 had returned.  Holmes read it and was about to place it in his notebook
@@ -551,7 +551,7 @@ the agents mentioned by Scott Eccles and obtaining a list of them.
 Here they are in this telegram, and the other end of our tangled skein
 must lie among them."
 
-        *           *           *
+
 
 It was nearly six o'clock before we found ourselves in the pretty
 Surrey village of Esher, with Inspector Baynes as our companion.
@@ -857,7 +857,7 @@ gaps in that direction which we have still to fill.
 "We will go back to the note which was handed in to Garcia upon the
 evening of his death.  We may put aside this idea of Baynes's that
 Garcia's servants were concerned in the matter.  The proof of this lies
-in the fact that it was _he_ who had arranged for the presence of Scott
+in the fact that it was he who had arranged for the presence of Scott
 Eccles, which could only have been done for the purpose of an alibi.
 It was Garcia, then, who had an enterprise, and apparently a criminal
 enterprise, in hand that night in the course of which he met his death.
@@ -867,10 +867,10 @@ life?  Surely the person against whom the criminal enterprise was
 directed.  So far it seems to me that we are on safe ground.
 
 "We can now see a reason for the disappearance of Garcia's household.
-They were _all_ confederates in the same unknown crime. If it came off
+They were all confederates in the same unknown crime. If it came off
 when Garcia returned, any possible suspicion would be warded off by the
 Englishman's evidence, and all would be well.  But the attempt was a
-dangerous one, and if Garcia did _not_ return by a certain hour it was
+dangerous one, and if Garcia did not return by a certain hour it was
 probable that his own life had been sacrificed.  It had been arranged,
 therefore, that in such a case his two subordinates were to make for
 some prearranged spot where they could escape investigation and be in a
@@ -1112,7 +1112,7 @@ can an English lady join in such a murderous affair?"
 justice can be gained.  What does the law of England care for the
 rivers of blood shed years ago in San Pedro, or for the shipload of
 treasure which this man has stolen?  To you they are like crimes
-committed in some other planet.  But _we_ know.  We have learned the
+committed in some other planet.  But we know.  We have learned the
 truth in sorrow and in suffering.  To us there is no fiend in hell like
 Juan Murillo, and no peace in life while his victims still cry for
 vengeance."
@@ -1215,7 +1215,7 @@ the object of murdering him is another, whatever danger you may fear
 from him.  No, no, we shall all be justified when we see the tenants of
 High Gable at the next Guildford Assizes."
 
-        *           *           *
+
 
 It is a matter of history, however, that a little time was still to
 elapse before the Tiger of San Pedro should meet with his deserts.
