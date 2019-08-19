@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/bin/python3
 # coding=utf-8
 
 import os
@@ -13,8 +13,9 @@ out = open('sherlock.txt', 'w+')
 for file in sorted(os.listdir('stories')):
   if file.endswith('.txt'):
     with open('stories/' + file) as f:
+      title = f.readline().strip()
       out.write('\n' + '#'*80 + '\n')
-      out.write(f.readline())
+      out.write(title)
       out.write('\n' + '#'*80 + '\n')
       for line in f.readlines():
         out.write(line)
