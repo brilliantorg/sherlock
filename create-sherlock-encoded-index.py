@@ -1,4 +1,11 @@
+#!/usr/local/bin/python3
+# coding=utf-8
 import json
+
+# Make a more compressed representation of the story index
+# Replace all lists of { doc, len, pos, ndx } records with a number,
+# the _offset_ where that list's data is stored, compressed, in the 
+# data file. 
 
 with open('assets/sherlock-index.json') as f:
     data = json.loads(f.read())
@@ -6,9 +13,7 @@ with open('assets/sherlock-index.json') as f:
 texts = data['texts'] # list of { text, name }
 index = data['index'] # map from strings to lists of { doc, len, pos, ndx }
 
-# with open('assets/sherlock-just-texts.json', 'w') as f:
-#     f.write(json.dumps(texts))
-
+# This part is just analysis to make sure we're not screwing up too badly
 hits = 0 # 33035 (16 bits)
 doc_ = 0 # 101   (7 bits - use 8)
 len_ = 0 # 28    (5 bits - use 6)
@@ -38,35 +43,36 @@ check('ndx', ndx_, 16)
 
 keys = sorted([k for k in index.keys()])
 
-bts = []
+output_bytes = []
 ref_index = {}
 for k in keys:
-    ref_index[k] = len(bts)
+    # In the compressed index, the word maps to an offset into the output byte file
+    ref_index[k] = len(output_bytes)
     locations = index[k]
 
     # TWO BYTES - number of matching locations
     # Followed by that many 7-byte records
-    bts.append(len(locations) >> 8)
-    bts.append(len(locations) & 0xFF)
+    output_bytes.append(len(locations) >> 8)
+    output_bytes.append(len(locations) & 0xFF)
     for loc in locations:
         # RECORD BYTE 1 - document number
-        bts.append(loc['doc'])
+        output_bytes.append(loc['doc'])
 
         # RECORD BYTE 2, 3, 4 - length (6 of 24 bytes) and document position offset (18 of 24 bytes) 
-        bts.append((loc['len'] << 2) | (loc['pos'] >> 16))
-        bts.append((loc['pos'] >> 8) & 0xFF)
-        bts.append(loc['pos'] & 0xFF)
+        output_bytes.append((loc['len'] << 2) | (loc['pos'] >> 16))
+        output_bytes.append((loc['pos'] >> 8) & 0xFF)
+        output_bytes.append(loc['pos'] & 0xFF)
 
         # RECORD BYTE 5, 6 - sequence number for this token in document
-        bts.append(loc['ndx'] >> 8)
-        bts.append(loc['ndx'] & 0xFF)
+        output_bytes.append(loc['ndx'] >> 8)
+        output_bytes.append(loc['ndx'] & 0xFF)
     
-json_data = json.dumps({ 'texts': texts, 'index': ref_index})
+json_data = json.dumps({ 'texts': texts, 'index': ref_index })
 print('JSON data: %d bytes uncompressed' % len(json_data))
 with open('assets/sherlock-encoded-index.json', 'w') as f:
     f.write(json_data)
 
-record_data = bytearray(bts)
+record_data = bytearray(output_bytes)
 print('Record data: %d bytes uncompressed' % len(record_data))
 with open('assets/sherlock-encoded-index.data', 'wb') as f:
     f.write(record_data)

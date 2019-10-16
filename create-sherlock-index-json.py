@@ -1,9 +1,13 @@
+#!/usr/local/bin/python3
 # coding=utf-8
 import json
+
+# Create search index from sherlock.txt
 
 with open('assets/sherlock.txt') as f:
   fulltext = f.read()
 
+# Split the single file back up into (title, text) pairs
 splits = fulltext.split("\n" + "#"*80 + "\n")
 stories = []
 while len(splits) > 1:
@@ -12,11 +16,11 @@ while len(splits) > 1:
   stories.append((title, text))
 stories.reverse()
 
-fulltext_offset = 0
 story_number = 0
 story_index = []
 word_index = {}
 
+# Add a single word occurance (the token represented by chars) to the index 
 def add_token(chars, token_number, start_index, end_index):
   global story_number
   global word_index
@@ -31,13 +35,12 @@ def add_token(chars, token_number, start_index, end_index):
   return None
 
 for (title, text) in stories:
-  fulltext_offset += 82 * 2 + len(title)
-
   story_index.append({
     "name": title,
     "text": text,
   })
 
+  # Bespoke tokenization
   start_index = None
   current_token = None
   index = 0
@@ -80,11 +83,11 @@ for (title, text) in stories:
         print("ERROR: didn't anticipate " + ch)
         index += 1
 
+  # Make sure to get the token at the end of the file!
   if current_token is not None:
     add_token(current_token, token_number, start_index, index)
 
   story_number += 1
-  fulltext_offset += len(text)
 
 with open('assets/sherlock-index.json', 'w+') as output:
   output.write(json.dumps({
@@ -92,4 +95,4 @@ with open('assets/sherlock-index.json', 'w+') as output:
     "index": word_index
   }))
 
-print('Index created, %d distinct words' % len(word_index.keys()))
+print('Index for %d documents created, %d distinct words' % (len(story_index), len(word_index.keys())))
