@@ -7,9 +7,13 @@ import os
 sed -i~ 's/[“”]/"/g' * && rm *~
 sed -i~ "s/[’‘]/'/g" * && rm *~
 """
+if not os.path.isdir('assets'):
+    os.mkdir('assets')
 
-out = open('sherlock.txt', 'w+')
+out = open('assets/sherlock.txt', 'w+')
 
+print('Chapter listing')
+print('---------------')
 for file in sorted(os.listdir('stories')):
   if file.endswith('.txt'):
     with open('stories/' + file) as f:
@@ -34,7 +38,7 @@ for file in sorted(os.listdir('novels')):
           chapter = chapterline[1].strip()
           chapternum = chapterline[0].split(' ')[1]
 
-          fullname = title + part + ', Chapter ' + chapternum + ': ' + chapter
+          fullname = title + part + ', Chapter ' + chapternum # + ': ' + chapter
           print(fullname)
           out.write('\n' + '#'*80 + '\n')
           out.write(fullname)

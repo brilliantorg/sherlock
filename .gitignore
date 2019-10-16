@@ -1,2 +1,14 @@
 *~
+\#*\#
 sherlock.txt
+assets/*
+*.json
+*.gz
+
+assets.old/*
+hack/*
+bible.txt
+celestial.txt
+fanfic.txt
+shakespeare.txt
+warpeace.txt
