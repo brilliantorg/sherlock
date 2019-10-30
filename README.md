@@ -20,3 +20,23 @@ located.
 The code in the root directory, which processes the text in the two folders, is
 copyright Brilliant Worldwide, all rights reserved, etc.
 
+Running the code
+----------------
+
+Merge the file fragments into one file, `./assets/sherlock.txt`
+
+```
+python3 create-sherlock-txt.py
+```
+
+Build index as a single JSON file, `./assets/sherlock-index.json`
+
+```
+python3 create-sherlock-index-json.py
+```
+
+Build a more efficient representation in two files: a regular json file `./assets/sherlock-encoded-index.json` and file of packed binary data  `./assets/sherlock-encoded-index.data`.
+
+```
+python3 create-sherlock-encoded-index.py
+```
