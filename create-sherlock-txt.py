@@ -1,5 +1,6 @@
 #!/usr/local/bin/python3
 # coding=utf-8
+# Copyright 2019 Brilliant Worldwide
 import os
 
 # Concatenate all the files in stores/ and noves/ into one big

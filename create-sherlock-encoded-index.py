@@ -1,5 +1,7 @@
 #!/usr/local/bin/python3
 # coding=utf-8
+# Copyright 2019 Brilliant Worldwide
+
 import json
 
 # Make a more compressed representation of the story index
