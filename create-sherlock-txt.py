@@ -1,55 +1,34 @@
-#!/usr/local/bin/python3
-# coding=utf-8
-# Copyright 2019 Brilliant Worldwide
-import os
+#!/usr/bin/python3
+from os.path import isdir, join
+from os import mkdir, listdir
 
-# Concatenate all the files in stores/ and noves/ into one big
-# text corpus, split up books into chapters
+if __name__ == "__main__":
+	if not isdir("assets"):
+		mkdir("assets")
+	
+	with open("assets/sherlock.txt", 'w+') as out:
+		print("Chapter/story listing\n{'-':<16}")
+		for method in ("stories", "novels"):
+			function = globals()[method]
+			for filename in sorted(listdir(method)):
+				if filename.endswith(".txt"):
+					with open(join(method, filename)) as in_:
+						title = in_.readline().strip()
+						function(title, in_, out)
+						print(title)
 
+def stories(title, in_, out):
+	out.write(f"\n{'#':<80}\n{title}\n{'#':<80}\n")
+	out.writelines(in_.readlines())
 
-if not os.path.isdir('assets'):
-    os.mkdir('assets')
-
-out = open('assets/sherlock.txt', 'w+')
-print('Chapter/story listing')
-print('---------------')
-
-# First, add all the short stories
-# Their file names are set so that alphabetical
-# ordering is the publication ordering
-for file in sorted(os.listdir('stories')):
-  if file.endswith('.txt'):
-    with open('stories/' + file) as f:
-      title = f.readline().strip()
-      print(title)
-      out.write('\n' + '#'*80 + '\n')
-      out.write(title)
-      out.write('\n' + '#'*80 + '\n')
-      for line in f.readlines():
-        out.write(line)
-
-# Second, add all the chapters of novels 
-# as individual documents.
-for file in sorted(os.listdir('novels')):
-  if file.endswith('.txt'):
-    with open('novels/' + file) as f:
-      title = f.readline().strip()
-      part = ''
-      for line in f.readlines():
-        if line.startswith('PART'):
-          part = ', Part ' + line[5]
-        elif line.startswith('Chapter'):
-          chapterline = line.split('--')
-          chapter = chapterline[1].strip()
-          chapternum = chapterline[0].split(' ')[1]
-
-          # NB: The "chapter" bit was removed from the chapter title
-          # because the extremely long titles it generated were causing
-          # height overflow issues in the app
-          chapter_title = title + part + ', Chapter ' + chapternum # + ': ' + chapter
-          print(chapter_title)
-          out.write('\n' + '#'*80 + '\n')
-          out.write(chapter_title)
-          out.write('\n' + '#'*80 + '\n')
-        else:
-          out.write(line)
+def novels(title, in_, out):
+	part = str()
+	for line in in_.readlines():
+		if line.startswith("PART"):
+			part = ", Part " + line[5]
+		elif line.startswith("Chapter"):
+			chapter_number = (line.split("--"))[0].split(" ")[1]
+			chapter_title = title + part + ", Chapter " + chapter_number
+			out.write(f"\n{'#':<80}\n{chapter_title}\n{'#':<80}\n")
+		else:
+			out.write(line)
